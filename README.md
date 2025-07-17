@@ -1,2 +1,1 @@
-# smppamertt
-smppamertt
+# [smppamertt](https://smppamertt.pages.dev)
